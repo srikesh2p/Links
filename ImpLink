@@ -7,3 +7,5 @@ http://cse.unl.edu/~cbourke/gitTutorial.pdf
 Timesyse(helps software development teams build and maintain a custom Linux platform for a wide variety of embedded processors from semiconductor
 manufacturers such as Atmel, Freescale, Intel, Texas Instruments, and Xilinx. )
 https://www.timesys.com/
+IMX6 Hard floating point. (-mfloat-abi=hard). If we enalbe floating point processor then the speed of floating point execution will be faster.
+https://community.nxp.com/docs/DOC-100112
