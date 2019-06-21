@@ -9,3 +9,5 @@ manufacturers such as Atmel, Freescale, Intel, Texas Instruments, and Xilinx. )
 https://www.timesys.com/
 IMX6 Hard floating point. (-mfloat-abi=hard). If we enalbe floating point processor then the speed of floating point execution will be faster.
 https://community.nxp.com/docs/DOC-100112
+Understanding getchar in c
+https://linuxprograms.wordpress.com/2012/06/22/c-getopt-example/
